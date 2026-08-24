@@ -20,14 +20,10 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=GilbertoParraSuarez
-            &show_icons=true
-            &include_all_commits=true
-            &hide_border=false
-            &theme=dracula
+          options: username=GilbertoParraSuarez&show_icons=true&include_all_commits=true&hide_border=false&theme=dracula
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Publish stats
         uses: crazy-max/ghaction-github-pages@v5

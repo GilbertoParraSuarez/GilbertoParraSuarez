@@ -20,14 +20,10 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=GilbertoParraSuarez
-            &layout=compact
-            &langs_count=8
-            &hide_border=false
-            &theme=dracula
+          options: username=GilbertoParraSuarez&layout=compact&langs_count=8&hide_border=false&theme=dracula
           path: dist/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Publish languages
         uses: crazy-max/ghaction-github-pages@v5
