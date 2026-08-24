@@ -5,7 +5,9 @@
 <img
   data-importer="image"
   align="right"
-  height="150"
+  width="120"
+  height="120"
+  style="object-fit: cover;"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="Coding animation"
 />
@@ -56,7 +58,9 @@ Trabajo en diferentes etapas del ciclo de desarrollo de software, desde análisi
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React Native" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET MAUI" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET Core" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" />
   <img width="10" />
@@ -65,6 +69,10 @@ Trabajo en diferentes etapas del ciclo de desarrollo de software, desde análisi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+</div>
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/odoo/875A7B" height="32" alt="Odoo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
   <img width="10" />
@@ -76,10 +84,20 @@ Trabajo en diferentes etapas del ciclo de desarrollo de software, desde análisi
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="REST APIs" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="32" alt="Entity Framework" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="32" alt="LINQ" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="32" alt="CI/CD" />
 </div>
-
-React Native · .NET MAUI · .NET Core · Odoo · GitHub · REST APIs · Entity Framework · LINQ · Firebase · CI/CD
 
 ### 🤝 Professional links
 
