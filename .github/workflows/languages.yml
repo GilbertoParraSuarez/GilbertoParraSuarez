@@ -1,0 +1,38 @@
+name: Generate Languages Stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-languages:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=GilbertoParraSuarez
+            &layout=compact
+            &langs_count=8
+            &hide_border=false
+            &theme=dracula
+          path: dist/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish languages
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          build_dir: dist
+          target_branch: languages-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
