@@ -116,8 +116,8 @@ Trabajo en diferentes etapas del ciclo de desarrollo de software, desde análisi
 ## 📊 GitHub Stats
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/GilbertoParraSuarez/GilbertoParraSuarez/stats-output/stats.svg" height="165" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/GilbertoParraSuarez/GilbertoParraSuarez/languages-output/languages.svg" height="165" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/GilbertoParraSuarez/GilbertoParraSuarez/stats-output/stats.svg?v=2" height="165" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/GilbertoParraSuarez/GilbertoParraSuarez/languages-output/languages.svg?v=2" height="165" alt="Most used languages" />
 </div>
 
 ## 💼 Professional Experience
