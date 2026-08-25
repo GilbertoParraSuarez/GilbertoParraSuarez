@@ -6,17 +6,17 @@
 
 I'm a **Software Engineer and Full Stack Developer with 3+ years of professional experience**, focused on building scalable web, mobile and enterprise applications.
 
+I work across the complete software development lifecycle — from requirements analysis and database modeling to frontend, backend, REST APIs, testing, integrations and deployment.
+
 <img
   data-importer="image"
   align="right"
-  width="120"
-  height="120"
+  width="180"
+  height="180"
   style="object-fit: cover;"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="Coding animation"
 />
-
-I work across the complete software development lifecycle — from requirements analysis and database modeling to frontend, backend, REST APIs, testing, integrations and deployment.
 
 - 💻 Full Stack Web Development
 - 📱 Cross-platform Mobile Development
