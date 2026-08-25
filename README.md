@@ -11,8 +11,8 @@ I work across the complete software development lifecycle — from requirements 
 <img
   data-importer="image"
   align="right"
-  width="180"
-  height="180"
+  width="240"
+  height="150"
   style="object-fit: cover;"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="Coding animation"
