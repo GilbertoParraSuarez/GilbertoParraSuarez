@@ -8,16 +8,6 @@ I'm a **Software Engineer and Full Stack Developer with 3+ years of professional
 
 I work across the complete software development lifecycle — from requirements analysis and database modeling to frontend, backend, REST APIs, testing, integrations and deployment.
 
-<img
-  data-importer="image"
-  align="right"
-  width="240"
-  height="150"
-  style="object-fit: cover;"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Coding animation"
-/>
-
 - 💻 Full Stack Web Development
 - 📱 Cross-platform Mobile Development
 - 🏢 Enterprise Systems & ERP
@@ -36,8 +26,6 @@ Soy Ingeniero en Software y Desarrollador Full Stack con más de 3 años de expe
 Trabajo en diferentes etapas del ciclo de desarrollo de software, desde análisis de requerimientos y modelado de bases de datos hasta frontend, backend, APIs REST, pruebas, integraciones y despliegue.
 
 </details>
-
-<br clear="both" />
 
 ### 🛠️ Languages & Technologies
 
